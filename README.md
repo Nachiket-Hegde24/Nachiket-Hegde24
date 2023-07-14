@@ -25,11 +25,11 @@
 
 <h3 align="left"><b>Languages and Tools:</b></h3>
 <p align="left">
-  <ol style="list-style-type: disc;">
+  <ul style="list-style-type: disc;">
     <li>Python</li>
     <li>Microsoft Excel</li>
     <li>Power BI</li>
     <li>Oracle</li>
     <li>Basic HTML and CSS</li>
-  </ol>
+  </ul>
 </p>
