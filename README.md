@@ -1,4 +1,4 @@
-<body>
+
 <h1 align="center"><font color="red">Hi 👋, I am Nachiket Hegde</font></h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <p align="center">
@@ -33,4 +33,3 @@
     <li>Basic HTML and CSS</li>
   </ol>
 </p>
-</body>
