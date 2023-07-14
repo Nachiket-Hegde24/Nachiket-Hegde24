@@ -18,9 +18,9 @@
 
 <h3 align="left"><b>Connect with me:</b></h3>
 <p align="left">
-  <a href="https://twitter.com/Nachhi_Hegde?t=2rEqKJd6ngJPIhosPfGGSA&s=09" target="_blank">twitter</a>
-  <a href="https://www.linkedin.com/in/nachiket-hegde-133489245" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/nachhi_hegde?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://twitter.com/Nachhi_Hegde?t=2rEqKJd6ngJPIhosPfGGSA&s=09" target="_blank">Twitter</a>
+  <a href="https://www.linkedin.com/in/nachiket-hegde-133489245" target="_blank">LinkedIn</a>
+  <a href="https://instagram.com/nachhi_hegde?igshid=MzNlNGNkZWQ4Mg==" target="_blank">Instagram</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
