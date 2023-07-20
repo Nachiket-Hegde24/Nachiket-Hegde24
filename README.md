@@ -18,7 +18,7 @@
 
 <h3 align="left"><b>Connect with me:</b></h3>
 <p align="left">
-  <a href="https://twitter.com/Nachhi_Hegde?t=2rEqKJd6ngJPIhosPfGGSA&s=09" target="_blank">Twitter&nbsp;&nbsp;</a>
+  <a href="https://twitter.com/Nachhi_Hegde?t=2rEqKJd6ngJPIhosPfGGSA&s=09" target="_blank"><img src="<i class='bx bxl-twitter'></i></a>
   <a href="https://www.linkedin.com/in/nachiket-hegde-133489245" target="_blank">LinkedIn&nbsp;&nbsp;</a>
   <a href="https://instagram.com/nachhi_hegde?igshid=MzNlNGNkZWQ4Mg==" target="_blank">Instagram</a>
 </p>
